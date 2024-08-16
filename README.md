@@ -1,6 +1,6 @@
 # Hi! Im Vhon Bautista
 
-**Junior Web Developer**  
+**Web Developer**  
 Email: [vhonbautista0721.personal+work@gmail.com](mailto:vhonbautista0721.personal+work@gmail.com)  
 Phone: +639673215975
 
@@ -44,7 +44,7 @@ Led the development of CDATS (CENRO Document Action Tracking System) to replace 
 - **LinkedIn:** [Vhon Bautista](https://www.linkedin.com/in/vhon-bautista-aa473b281/)
 - **Facebook:** [Vhon Bautista](https://www.facebook.com/VhonBautistaOfficial/)
 - **Work GitHub:** [VhonB](https://github.com/VhonB)
-- **School GitHub:** [VhonBautista](https://github.com/VhonBautista)
+- **School GitHub:** [VhonBautista](https://github.com/VhonBautista) - **Check this for my past projects**
 
 ---
 
