@@ -33,10 +33,10 @@ Bachelor of Science in Information Technology, Major in Web and Mobile Developme
 
 ## Projects
 
-**[ELEVENTO](#)**  
+**ELEVENTO**  
 Developed ELEVENTO, an event planning web app for PSU UC that allows campus clubs and organizations to post events, register participants, and manage event check-ins using QR Passes. Managed the full project lifecycle, including planning, database design, and system architecture. Utilized Git and GitHub for version control and team collaboration.
 
-**[CDATS](#)**  
+**CDATS**  
 Led the development of CDATS (CENRO Document Action Tracking System) to replace an outdated system. Responsible for planning, database design, and development. Used Git and GitHub to monitor progress and collaborate with the team.
 
 ---
